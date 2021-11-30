@@ -1,1 +1,1 @@
-Map of My Favorite Destinations Around the World
+description: Map of My Favorite Destinations Around the World
